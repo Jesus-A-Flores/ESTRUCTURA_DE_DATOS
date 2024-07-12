@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681832485 source:c:\users\lenovo\desktop\java\proyecto\practica\main.cpp
+	<iostream>
+	"Prueva.h"
+
+1681832538 c:\users\lenovo\desktop\java\proyecto\practica\include\prueva.h
+	<iostream>
+
+1681832341 source:c:\users\lenovo\desktop\java\proyecto\practica\src\prueva.cpp
+
